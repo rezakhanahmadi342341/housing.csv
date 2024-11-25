@@ -19,9 +19,9 @@ Here are some highlights of my work:
 - Tools: Google Colab, Jupyter Notebook
 
 ## 🌐 Connect with Me
-- 📫 **Email:** [your-email@example.com]
-- 🔗 **Portfolio:** [Your Portfolio Link]
-- 🐦 **Twitter:** [Your Twitter Handle]
+- 📫 **Email:** [rezakhanahmadi342@gmail.com]
+- 🔗 **Portfolio:** [come soon]
+- 🐦 **Twitter:** [come soon]
 
 ---
 
