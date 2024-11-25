@@ -51,5 +51,8 @@ Here are a few highlights of my work:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rezakhanahmadi342341&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rezakhanahmadi342341&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+> *"The best way to predict the future is to create it."*  
+
+
 <h3 align="center">⭐ Thank you for visiting my profile! ⭐</h3>
 <p align="center">Feel free to explore my repositories and connect with me!</p>
